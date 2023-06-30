@@ -1,0 +1,58 @@
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\bin\Debug\medCentre.exe.config
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\bin\Debug\medCentre.exe
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\bin\Debug\medCentre.pdb
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.csprojResolveAssemblyReference.cache
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.mainForm.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.Properties.Resources.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.csproj.GenerateResource.Cache
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.exe
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.pdb
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.addAppointment.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.allDataForm.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.findForm.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.addEmployee.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.addPacient.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.addService.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.editEmployee.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.editPacient.resources
+D:\books\study\3 курс\ПП\не моё\К4. Хафизова\medCentre\medCentre\obj\Debug\medCentre.editService.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\bin\Debug\medCentre.exe.config
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.exe
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.pdb
+D:\books\study\3 курс\ПП\medCentre\medCentre\bin\Debug\medCentre.exe
+D:\books\study\3 курс\ПП\medCentre\medCentre\bin\Debug\medCentre.pdb
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.csprojResolveAssemblyReference.cache
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.allDataForm.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.findForm.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.mainForm.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.Properties.Resources.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.addAppointment.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.addEmployee.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.addPacient.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.addService.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.editEmployee.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.editPacient.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.editService.resources
+D:\books\study\3 курс\ПП\medCentre\medCentre\obj\Debug\medCentre.csproj.GenerateResource.Cache
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\bin\Debug\medCentre.exe.config
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\bin\Debug\medCentre.exe
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\bin\Debug\medCentre.pdb
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.csproj.AssemblyReference.cache
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.csproj.SuggestedBindingRedirects.cache
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.allDataForm.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.findForm.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.mainForm.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.Properties.Resources.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.addAppointment.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.addEmployee.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.addPacient.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.addService.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.editEmployee.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.editPacient.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.editService.resources
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.csproj.GenerateResource.cache
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.csproj.CoreCompileInputs.cache
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.exe
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\obj\Debug\medCentre.pdb
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\bin\Debug\basesql.mdf
+C:\Users\optim\Downloads\Telegram Desktop\medCentre\medCentre\bin\Debug\basesql_log.ldf
